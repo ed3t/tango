@@ -44,7 +44,7 @@ Check out the [DEMO](http://projectpage.feedia.co)
 - Email: asapabedi@gmail.com
 - Password: freefall
 
-:) Enjoy
+Enjoy :)
 
 ### Like what I do?
 <a href='https://ko-fi.com/H2H7D1L7' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
