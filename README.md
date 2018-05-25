@@ -1,5 +1,5 @@
 ![TANGO](https://thepracticaldev.s3.amazonaws.com/i/2azfz91cp1tz5vqewk8z.png)
-# TANGO
+
 Tango is a twitter like app built with vue.js, graph.QL and Pusher implemented on laravel. I built this as a submission to the [DEV.to contest](https://dev.to/devteam/first-ever-dev-contest-build-a-realtime-app-with-pusher-4nhp)
 -------------------------------------------------------------------------------------
 
